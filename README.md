@@ -1,4 +1,11 @@
-# HelpDeskBot 🤖
+# HelpDeskBot 
+
+
+
+![bot flujo](bto.png)
+
+
+
 
 ## Descripción
 
